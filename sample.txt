@@ -1,4 +1,6 @@
 This is just a sample testing git
 This line was added in github
 
-This was changed from notepad
+=======
+Checking for merge conflict
+
