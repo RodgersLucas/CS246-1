@@ -1,2 +1,4 @@
 This is just a sample testing git
 This line was added in github
+
+Checking for merge conflict
